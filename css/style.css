@@ -1,0 +1,114 @@
+/* Estilos gerais */
+body {
+  background: linear-gradient(#4B0082, #8B008B, #9400D3);
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container-cadastro {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 10%;
+}
+
+/* Estilos do formulário de cadastro */
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.notification {
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+h2.title-cadastro {
+  text-align: center;
+  color: #FFDEAD;
+  font-size: 3rem;
+  letter-spacing: 2px;
+}
+
+h3.title-cadastro {
+  text-align: center;
+  color: rgb(127, 255, 212);
+  font-size: 2rem;
+  letter-spacing: 2px;
+}
+
+.cadastro-efetuado {
+  background: linear-gradient(#DCDCDC, #D3D3D3, #C0C0C0);
+  color: #090909;
+  padding: 1%;
+  margin-bottom: 1rem;
+  text-align: center;
+  font-weight: bold;
+}
+
+.info-cadastro {
+  background: linear-gradient(#DCDCDC, #D3D3D3, #C0C0C0);
+  color: #FF4500;
+  padding: 1%;
+  margin-bottom: 1rem;
+  text-align: center;
+  font-weight: bold;
+}
+
+.box {
+  background: linear-gradient(to bottom, #f2f2f2, #cccccc);
+  padding: 5%;
+  border-radius: 4px;
+  width: 90%;
+}
+
+.field {
+  margin-bottom: 20px;
+  width: 95%;
+}
+
+.control label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.control input,
+.control select {
+  width: 100%;
+  padding: 8px;
+  font-size: 16px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+button.button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #090909;
+  background-color: #51ADE5;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+button.button:hover {
+  opacity: 0.5;
+}
+
+button.button.is-block {
+  display: block;
+}
+
+button.button.is-link {
+  background-color: rgb(175, 238, 238);
+}
+
+button.button.is-link:hover {
+  background-color: #0056b3;
+}
