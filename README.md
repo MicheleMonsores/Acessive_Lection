@@ -20,7 +20,7 @@ Estamos sempre abertos a contribuições e feedback da comunidade. Se você é u
 - Compartilhe suas experiências e boas práticas em acessibilidade.
 - Ajude a promover este projeto e conscientizar sobre a importância da inclusão digital.
 
-
+## Como Executar o Projeto no seu Computador
 
 Para executar o projeto localmente em seu ambiente de desenvolvimento, siga estas etapas:
 
