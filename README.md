@@ -4,7 +4,7 @@ Neste projeto, acreditamos firmemente no acesso igualitário à informação e o
 
 ## Sobre o Projeto
 
-Este projeto foi desenvolvido com o propósito de proporcionar uma experiência inclusiva para todos os usuários. Foram cuidadosamente implementados recursos e ferramentas que atendem às necessidades de pessoas com deficiências visuais, auditivas, motoras e cognitivas. Seja você usuário de tecnologias assistivas, um familiar ou amigo de alguém com necessidades especiais, ou simplesmente alguém que valoriza a acessibilidade, encontrará informações e soluções úteis aqui.
+Este projeto foi desenvolvido com o propósito de proporcionar uma experiência inclusiva para todos os usuários. Foram cuidadosamente implementados recursos e ferramentas que atendem às necessidades de pessoas com deficiências visuais e auditivas. Seja você usuário de tecnologias assistivas, um familiar ou amigo de alguém com necessidades especiais, ou simplesmente alguém que valoriza a acessibilidade, encontrará informações e soluções úteis aqui.
 
 ## Objetivos
 
@@ -20,7 +20,7 @@ Estamos sempre abertos a contribuições e feedback da comunidade. Se você é u
 - Compartilhe suas experiências e boas práticas em acessibilidade.
 - Ajude a promover este projeto e conscientizar sobre a importância da inclusão digital.
 
-## Como Executar o Projeto
+
 
 Para executar o projeto localmente em seu ambiente de desenvolvimento, siga estas etapas:
 
